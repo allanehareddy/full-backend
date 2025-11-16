@@ -1,0 +1,21 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+target/
+
+# Maven
+.mvn/
+
+# Uploads
+uploads/
+
+# Exported HTML
+exportToHTML/
+
+# OS
+*.log
+*.tmp
+
+# Spring Boot
+*.jar
